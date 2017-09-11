@@ -47,6 +47,7 @@
 			ALL &nbsp; <input type="checkbox" id="chkAll" >
 </div>
 		
+	
 	</form>
 	<br>
 	<table class="table">
