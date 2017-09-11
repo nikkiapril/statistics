@@ -36,6 +36,16 @@
 			<option value="1">CITY¢Ö</option>
 			<option value="-1">CITY ¢Ù</option>
 		</select>
+		
+		
+		
+		<div class="form-group" style="width: 10%; float:left; margin-top: -25px; margin-right: 2px;">
+      <label for="usr">CNT</label>
+      <input type="text" class="form-control" id="usr">
+    </div>
+		
+		
+		
 		<button type="submit" class="btn btn-default">Submit</button>
 
 
